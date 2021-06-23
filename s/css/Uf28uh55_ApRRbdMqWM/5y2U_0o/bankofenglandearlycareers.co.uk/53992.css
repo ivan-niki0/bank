@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Bliss Regular';
+    src: url('https://f.fontdeck.com/f/1/TDB0dVh0TEsAAKRgWpW/DYjrdSlu2/dAlBrw4eIeDgUGTOKWjkWMoeu9hoRZ5+0RhRlSS8+0/OZtis0bVcXbpJzvn4c+ec8xEUsU77MaV8tdS0MzazJOv27NhJGFRX+UYhy3bYzk0gO8EU1RLK9uNliQVGQq+gfqBureliopMzg9fRl7Nr4H7eRBV92QDkotoZF8i5oW4/fcITvvKHHnaGo0BxxQHbS85PzpnhLDHaCH1ltjX3DVWLtE1F+YdRpkleU.eot');
+    src: url('https://f.fontdeck.com/f/1/TDB0dVh0TEsAAKRgWpW/DYjrdSlu2/dAlBrw4eIeDgUGTOKWjkWMoeu9hoRZ5+0RhRlSS8+0/OZtis0bVcXbpJzvn4c+ec8xEUsU77MaV8tdS0MzazJOv27NhJGFRX+UYhy3bYzk0gO8EU1RLK9uNliQVGQq+gfqBureliopMzg9fRl7Nr4H7eRBV92QDkotoZF8i5oW4/fcITvvKHHnaGo0BxxQHbS85PzpnhLDHaCH1ltjX3DVWLtE1F+YdRpkleU.eot') format('embedded-opentype'),
+    url('https://f.fontdeck.com/f/1/TDB0dVh0TEsAAKRgWpW/DYjrdSlu2/dAlBrw4eIeDgUGTOKWjkWMoeu9hoRZ5+0RhRlSS8+0/OZtis0bVcXbpJzvn4c+ec8xEUsU77MaV8tdS0MzazJOv27NhJGFRX+UYhy3bYzk0gO8EU1RLK9uNliQVGQq+gfqBureliopMzg9fRl7Nr4H7eRBV92QDkotoZF8i5oW4/fcITvvKHHnaGo0BxxQHbS85PzpnhLDHaCH1ltjX3DVWLtE1F+YdRpkleU.woff') format('woff'),
+    url('https://f.fontdeck.com/f/1/TDB0dVh0TEsAAKRgWpW/DYjrdSlu2/dAlBrw4eIeDgUGTOKWjkWMoeu9hoRZ5+0RhRlSS8+0/OZtis0bVcXbpJzvn4c+ec8xEUsU77MaV8tdS0MzazJOv27NhJGFRX+UYhy3bYzk0gO8EU1RLK9uNliQVGQq+gfqBureliopMzg9fRl7Nr4H7eRBV92QDkotoZF8i5oW4/fcITvvKHHnaGo0BxxQHbS85PzpnhLDHaCH1ltjX3DVWLtE1F+YdRpkleU.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bliss Bold';
+    src: url('https://f.fontdeck.com/f/1/RFZ6eHhBZ00AAkoQPwEM6H2uCpq8bIM6jDnNbDTCa3ixpTWM5qceGtwP9Bs3R8Xpw2w3elGLr1MmRYF3Nrgadpk5edol+NiJ7dN7wxQ02eufi/oSNeKgYkDrZ4Q7wFrJRS9isPhUvox8yyGzvEpbd19EG3TAgdfgK0qhewoTVk7c1EctcCsr+mkyd+sAAxIh652cdWtvAMAY22NJeICBV6JhUQE/4Zk2fSHUEqtMwGSEQpTwVvYShnIDosZ+gBTZQ0FYDBk2wFR+VQ.eot');
+    src: url('https://f.fontdeck.com/f/1/RFZ6eHhBZ00AAkoQPwEM6H2uCpq8bIM6jDnNbDTCa3ixpTWM5qceGtwP9Bs3R8Xpw2w3elGLr1MmRYF3Nrgadpk5edol+NiJ7dN7wxQ02eufi/oSNeKgYkDrZ4Q7wFrJRS9isPhUvox8yyGzvEpbd19EG3TAgdfgK0qhewoTVk7c1EctcCsr+mkyd+sAAxIh652cdWtvAMAY22NJeICBV6JhUQE/4Zk2fSHUEqtMwGSEQpTwVvYShnIDosZ+gBTZQ0FYDBk2wFR+VQ.eot') format('embedded-opentype'),
+    url('https://f.fontdeck.com/f/1/RFZ6eHhBZ00AAkoQPwEM6H2uCpq8bIM6jDnNbDTCa3ixpTWM5qceGtwP9Bs3R8Xpw2w3elGLr1MmRYF3Nrgadpk5edol+NiJ7dN7wxQ02eufi/oSNeKgYkDrZ4Q7wFrJRS9isPhUvox8yyGzvEpbd19EG3TAgdfgK0qhewoTVk7c1EctcCsr+mkyd+sAAxIh652cdWtvAMAY22NJeICBV6JhUQE/4Zk2fSHUEqtMwGSEQpTwVvYShnIDosZ+gBTZQ0FYDBk2wFR+VQ.woff') format('woff'),
+    url('https://f.fontdeck.com/f/1/RFZ6eHhBZ00AAkoQPwEM6H2uCpq8bIM6jDnNbDTCa3ixpTWM5qceGtwP9Bs3R8Xpw2w3elGLr1MmRYF3Nrgadpk5edol+NiJ7dN7wxQ02eufi/oSNeKgYkDrZ4Q7wFrJRS9isPhUvox8yyGzvEpbd19EG3TAgdfgK0qhewoTVk7c1EctcCsr+mkyd+sAAxIh652cdWtvAMAY22NJeICBV6JhUQE/4Zk2fSHUEqtMwGSEQpTwVvYShnIDosZ+gBTZQ0FYDBk2wFR+VQ.ttf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
